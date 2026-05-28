@@ -119,6 +119,3 @@ Deploy interactive dashboards for visualization
 Authors
 Michael Munoz
 Will Fisher
-License
-
-This project is licensed under the MIT License.
