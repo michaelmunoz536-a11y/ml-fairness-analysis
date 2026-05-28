@@ -124,18 +124,6 @@ ml-fairness-analysis/
 └── requirements.txt
 
 
-
-Run the notebooks inside the notebooks/ directory to reproduce the analysis and visualizations.
-
-Visualizations Included
-ROC Curve Comparisons
-Confusion Matrices
-Demographic Parity Charts
-Equal Opportunity Analysis
-Equalized Odds Comparisons
-Correlation Heatmaps
-Ethical Considerations
-
 Machine learning systems can unintentionally reproduce demographic inequalities present in training data. This project highlights the importance of evaluating fairness alongside predictive performance when developing AI systems used in healthcare, workforce analytics, and decision-making environments.
 
 Future Improvements
