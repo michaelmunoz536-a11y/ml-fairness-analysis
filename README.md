@@ -106,22 +106,6 @@ The diversity dataset revealed stronger demographic disparities than the healthc
 Dataset structure and representation significantly influenced fairness outcomes.
 Bias mitigation techniques reduced disparities but introduced trade-offs between fairness and accuracy.
 
-Repository Structure
-ml-fairness-analysis/
-│
-├── data/
-│   ├── healthcare_patient_journey.csv
-│   └── diversity_in_tech_companies.csv
-│
-├── notebooks/
-│   ├── healthcare-analysis.ipynb
-│   ├── diversity-analysis.ipynb
-│
-├── report/
-│   └── fairness-performance-analysis.pdf
-│
-├── README.md
-└── requirements.txt
 
 
 Machine learning systems can unintentionally reproduce demographic inequalities present in training data. This project highlights the importance of evaluating fairness alongside predictive performance when developing AI systems used in healthcare, workforce analytics, and decision-making environments.
