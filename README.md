@@ -105,6 +105,7 @@ High model accuracy did not guarantee fairness across demographic groups.
 The diversity dataset revealed stronger demographic disparities than the healthcare dataset.
 Dataset structure and representation significantly influenced fairness outcomes.
 Bias mitigation techniques reduced disparities but introduced trade-offs between fairness and accuracy.
+
 Repository Structure
 ml-fairness-analysis/
 │
@@ -115,33 +116,14 @@ ml-fairness-analysis/
 ├── notebooks/
 │   ├── healthcare-analysis.ipynb
 │   ├── diversity-analysis.ipynb
-│   └── fairness-metrics-analysis.ipynb
-│
-├── images/
-│   ├── roc-curve.png
-│   ├── confusion-matrix.png
-│   └── fairness-metrics.png
 │
 ├── report/
 │   └── fairness-performance-analysis.pdf
 │
 ├── README.md
-├── requirements.txt
-└── LICENSE
-Installation
+└── requirements.txt
 
-Clone the repository:
 
-git clone https://github.com/yourusername/ml-fairness-analysis.git
-
-Install required dependencies:
-
-pip install -r requirements.txt
-Running the Project
-
-Open the notebooks using Jupyter Notebook or VS Code:
-
-jupyter notebook
 
 Run the notebooks inside the notebooks/ directory to reproduce the analysis and visualizations.
 
